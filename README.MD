@@ -13,3 +13,4 @@ Below is a table of all the Machine Learning models created:
 |3. |[UNDER-DEVELOPMENT] Prostate Cancer Classification Model | [Click to open](https://github.com/psavarmattas/Machine-Learning-Models/tree/master/ProstateCancerClassificationModel) |
 |4. |[UNDER-DEVELOPMENT] Ship Satellite Image Classification Model | [Click to open](https://github.com/psavarmattas/Machine-Learning-Models/tree/master/ShipsSatelliteImageClassification) |
 |5. |[UNDER-DEVELOPMENT] Understanding & Predicting Trends of Mental Health in Tech Industry | [Click to open](https://github.com/psavarmattas/Understanding-And-Predicting-Trends-of-Mental-Health-in-Tech-Industry) |
+|6. | Cardiovascular Heart Disease Prediction Model | [Click to open](https://github.com/psavarmattas/Cardiovascular-Heart-Disease-Prediction-Model) |
